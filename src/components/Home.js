@@ -78,7 +78,7 @@ const Home=()=> {
       
             <div class="popup mfp-hide" id="popup-contact">
         <div class="popup__wrap">
-          <div class="popup__head"><a class="popup__logo" href="#"><img class="popup__pic" src="img/logo.svg" alt=""/></a></div>
+          <div class="popup__head"><a class="popup__logo" href="#"><img className=" layouts__pic" src="img/layout-1.svg" alt=""/></a></div>
           <div class="popup__body">
             <div class="popup__title title">Get in touch<span class="title__color">.</span></div>
             <div class="popup__info">Enter your detail below</div>
