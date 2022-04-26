@@ -16,7 +16,7 @@ const Demo=()=> {
             </div>
             <div class="demo__item" data-aos="animation-translate-y" data-aos-delay="200">
               <h3 class="demo__title title title_sm">Get <br/>Started <br/>Now</h3>
-              <div class="demo__text">Ready to digitally revolutionize your organization? Try safetek Systems Now.</div><a class="demo__btn btn btn_white js-popup-open" href="#popup-contact" data-effect="mfp-zoom-in">Call Us Now</a>
+              <div class="demo__text">Ready to digitally revolutionize your organization? Try safetek Systems Now.</div><a class="demo__btn btn btn_white " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a>
             </div>
           </div>
         </div>

@@ -12,9 +12,9 @@ const Like=()=> {
                 <p>With Safetek, You will always be involved in the development process, our practise involves timely continous updates, and testing</p>
                 <p>Help us make you digitally better.</p>
               </div>
-              <div className="like__btn" data-aos="animation-scale-x" data-aos-delay="300"><button className="btn btn_purple">Call Us now</button></div>
+              <div className="like__btn" data-aos="animation-scale-x" data-aos-delay="300"> <a className="main__btn btn btn_purple" href="tel:+254790943918">Call Us Now</a></div>
             </div>
-            <div className="like__preview" data-aos><img className="like__pic" src="img/hand-1.png" alt=""/></div>
+            <div className="like__preview" data-aos><img className="like__pic" src="img/hand-1.png" alt=""/></div> 
             <div className="like__circle"></div>
             <div className="like__circles">
               <div className="like__circle"></div>

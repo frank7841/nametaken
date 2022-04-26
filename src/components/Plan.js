@@ -31,7 +31,7 @@ const Plan=()=> {
                 <li>passenger Ticketting</li>
                 <li>Parcel's Application</li>
                 <li>Dashboard Analytics</li>
-              </ul><a className="plan__btn btn btn_white js-popup-open" href="#popup-contact" data-effect="mfp-zoom-in">Call Us Now</a>
+              </ul><a className="plan__btn btn btn_white  " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a>
             </div>
             <div className="plan__item js-plan-item" data-aos="animation-translate-y" data-aos-delay="200">
               <div className="plan__category">
@@ -45,7 +45,7 @@ const Plan=()=> {
                 <li>Comprehensive Report generation</li>
                 <li>telemedicine</li>
                 <li>Pharmacy and Store Iventory</li>
-              </ul><a className="plan__btn btn btn_pink js-popup-open" href="#popup-contact" data-effect="mfp-zoom-in">Call Us Now</a>
+              </ul><a className="plan__btn btn btn_pink  " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a>
             </div>
             <div className="plan__item js-plan-item" data-aos="animation-translate-y" data-aos-delay="400">
               <div className="plan__category">
@@ -59,7 +59,7 @@ const Plan=()=> {
                 <li>FinTech</li>
                 <li>EduTech</li>
                 <li>Digitalisation</li>
-              </ul><a className="plan__btn btn btn_purple js-popup-open" href="#popup-contact" data-effect="mfp-zoom-in">Call Us Now</a>
+              </ul><a className="plan__btn btn btn_purple  " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a>
             </div>
           </div>
         </div>

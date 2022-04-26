@@ -9,7 +9,7 @@ const Offer=()=> {
             <div class="offer__head">
               <h2 class="offer__title title" data-aos="animation-scale-y">Ready to be part of the Success Story?</h2>
               <div class="offer__info info" data-aos="animation-scale-y" data-aos-delay="150">We offer flexible pricing options .</div>
-              <div class="offer__btn" data-aos="animation-scale-y" data-aos-delay="300"><a class="btn btn_white js-popup-open" href="#popup-contact" data-effect="mfp-zoom-in">Call Us Now</a></div>
+              <div class="offer__btn" data-aos="animation-scale-y" data-aos-delay="300"><a class="btn btn_white " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a></div>
             </div>
             <div class="offer__circles">
               <div class="offer__circle"></div>

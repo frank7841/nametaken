@@ -12,8 +12,12 @@ const Nav=()=> {
              </a>
             <div className="header__wrap js-header-wrap">
 
-                <nav className="header__nav"><a className="header__item" href="/">Blog</a><a className="header__item" href="/">Discover</a><a className="header__item" href="/selected">Tour</a>
-                        <div className="header__item js-header-item"><a className="header__head js-header-head" href="#">Explore<svg className="icon icon-arrow-down">
+                <nav className="header__nav">
+                    <a className="header__item" href="/">Blog</a>
+                    <a className="header__item" href="/">Discover</a>
+                    <a className="header__item" href="/selected">Tour</a>
+                        <div className="header__item js-header-item">
+                            <a className="header__head js-header-head" href="#">Explore<svg className="icon icon-arrow-down">
                             <use xlinkHref="img/sprite.svg#icon-arrow-down"></use>
                             </svg></a>
                         <div className="header__body js-header-body">
