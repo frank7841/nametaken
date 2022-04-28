@@ -6,7 +6,7 @@ const Footer=()=> {
         <div class="footer js-footer">
         <div class="footer__center center">
           <div class="footer__row">
-            <div class="footer__col"><a class="footer__logo" href="#"><img className=" layouts__pic" src="img/layout-1.svg" alt=""/></a></div>
+            <div class="footer__col"><a class="footer__logo" href="#"><img className=" footer__pic" src="img/safetek-logo.svg" alt=""/></a></div>
             <div class="footer__col js-footer-col">
               <div class="footer__category js-footer-category">Company<svg class="icon icon-arrow-down">
                   <use xlinkHref="img/sprite.svg#icon-arrow-down"></use>

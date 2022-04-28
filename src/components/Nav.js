@@ -8,7 +8,7 @@ const Nav=()=> {
               <button className="header__burger js-header-burger"><span></span></button>
               <a className="header__logo" href="#">
                   <span>Safetek</span>
-                  <img className=" layouts__pic" src="img/layout-1.svg" alt=""/>
+                  <img className=" header__pic" src="img/safetek-logo.svg" alt=""/>
              </a>
             <div className="header__wrap js-header-wrap">
 
