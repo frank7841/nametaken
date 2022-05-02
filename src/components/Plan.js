@@ -31,7 +31,7 @@ const Plan=()=> {
                 <li>passenger Ticketting</li>
                 <li>Parcel's Application</li>
                 <li>Dashboard Analytics</li>
-              </ul><a className="plan__btn btn btn_white  " href="https://www.komiut.co.ke" target="_blank"data-effect="mfp-zoom-in">Visit Komiut</a>
+              </ul><a className="plan__btn btn btn_white  " href="https://komiut.co.ke" target="_blank"data-effect="mfp-zoom-in">Visit Komiut</a>
             </div>
             <div className="plan__item js-plan-item" data-aos="animation-translate-y" data-aos-delay="200">
               <div className="plan__category">
