@@ -8,7 +8,7 @@ const Plan=()=> {
           <div className="plan__head" data-aos="animation-scale-y">
             <div className="plan__stage stage">Join The Revolution</div>
             <h2 className="plan__title title">Get the  <span className="title__color">Right Plan.</span></h2>
-            <div className="plan__info info">Flexible pricing options for Individuals and Corprates.</div><label className="switch"><input className="switch__input" type="checkbox" checked/><span className="switch__flex"><span className="switch__yearly">Billed Yearly</span><span className="switch__box"></span><span className="switch__monthly">Billed Monthly</span></span></label>
+            <div className="plan__info info">Flexible pricing options for Individuals and Corporates.</div><label className="switch"><input className="switch__input" type="checkbox" checked/><span className="switch__flex"><span className="switch__yearly">Billed Yearly</span><span className="switch__box"></span><span className="switch__monthly">Billed Monthly</span></span></label>
             <div className="plan__variants"><select className="plan__select js-plan-select">
                 <option> Automated Transport </option>
                 <option>HIS</option>
@@ -31,7 +31,7 @@ const Plan=()=> {
                 <li>passenger Ticketting</li>
                 <li>Parcel's Application</li>
                 <li>Dashboard Analytics</li>
-              </ul><a className="plan__btn btn btn_white  " href="tel:+254790943918" data-effect="mfp-zoom-in">Call Us Now</a>
+              </ul><a className="plan__btn btn btn_white  " href="https://www.komiut.co.ke" target="_blank"data-effect="mfp-zoom-in">Visit Komiut</a>
             </div>
             <div className="plan__item js-plan-item" data-aos="animation-translate-y" data-aos-delay="200">
               <div className="plan__category">
